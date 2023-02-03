@@ -4,6 +4,6 @@ import org.junit.Test;
 public class NewTest {
     @Test
     void newtest() {
-        Assertions.assertTrue(3>1);
+        Assertions.assertTrue(3>2);
     }
 }
